@@ -1,0 +1,7 @@
+if (navigator.userAgent.includes("Firefox")) {
+    alert("You are using Firefox (no redirect for test)");
+    console.log("Firefox detected!");
+} else {
+    alert("Other browser detected (no redirect for test)");
+    console.log("Other browser detected!");
+}
