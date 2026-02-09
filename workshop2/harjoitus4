@@ -1,0 +1,5 @@
+if (confirm("Oletko opiskelija?")) {
+  document.body.innerHTML = "Tervetuloa opiskelija";
+} else {
+  document.body.innerHTML = "Valitettavasti tämä sivu on tarkoitettu vain opiskelijoille";
+}
