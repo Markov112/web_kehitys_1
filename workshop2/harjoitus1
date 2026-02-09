@@ -1,1 +1,7 @@
+document.write `
+  <p>
+    <em>"If I had nine hours to chop down a tree, I'd spend the first six sharpening my ax."</em><br>
+    <strong>– Abraham Lincoln</strong>
+  </p>
+`;
 
