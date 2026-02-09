@@ -1,0 +1,11 @@
+function repeatingText() {
+  for (let i = 0; i < 50; i++) {
+    document.write(`
+      <p>
+        <em>"If I had nine hours to chop down a tree, I'd spend the first six sharpening my ax."</em><br>
+        <strong>– Abraham Lincoln</strong>
+      </p>
+    `);
+  }
+}
+repeatingText();
